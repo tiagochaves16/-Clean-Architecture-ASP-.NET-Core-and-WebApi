@@ -27,7 +27,7 @@ A aplicação ASP .NET Core MVC | WebApi estará aderente às boas práticas e a
 
 ## ✒️ Dev
 
-* **Desenvolvedor** - *Clean Archteture* - [Tiago Chaves](https://github.com/tiagochaves16)
+* **Desenvolvedor** - *Clean Architecture* - [Tiago Chaves](https://github.com/tiagochaves16)
 
 [Linkedin] (https://www.linkedin.com/in/tiago-chaves-885344148/)
 
