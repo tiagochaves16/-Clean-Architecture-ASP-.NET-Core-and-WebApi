@@ -1,6 +1,5 @@
-# Título do projeto
+# Clean Architecture com aplicação ASP NET Core e uma WebApi ambas com .NET Core 5.0 
 
-Aplicando Clean Architecture com aplicação ASP NET Core e uma WebApi ambas com .NET Core 5.0 
 
 ## 🚀 Começando
 
